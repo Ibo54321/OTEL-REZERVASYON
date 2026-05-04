@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp22
+﻿namespace OTEL
 {
     partial class Form1
     {
